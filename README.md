@@ -9,3 +9,20 @@
 <a href="https://www.facebook.com/profile.php?id=100007818046510">
 <img src="https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-icon-file-facebook-icon-svg-wikimedia-commons-4.png" width="25px">  
 </a>
+<a href="https://t.me/sirojiddin8617">
+<img src="https://static.vecteezy.com/system/resources/previews/017/221/839/original/telegram-logo-transparent-free-png.png" width="30px" height="30px">  
+</a>
+<a href="https://www.codewars.com/users/Jorisdandii">
+<img src="https://docs.codewars.com/logo.svg" width="25px"">  
+</a>
+<br/>
+
+### Languages and tools I work with:
+
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="25px"></code>
+<code><img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width="25px"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="25px"></code>
+<code><img src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png" width="25px"></code>
+<code><img src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png" width="25px"></code>
+<code><img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" width="25px" height="25px"></code>
+<br />                                                                                                                     
