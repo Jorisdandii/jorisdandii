@@ -24,5 +24,4 @@
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="25px"></code>
 <code><img src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png" width="25px"></code>
 <code><img src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png" width="25px"></code>
-<code><img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" width="25px" height="25px"></code>
 <br />                                                                                                                     
