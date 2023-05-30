@@ -19,9 +19,13 @@
 
 ### Languages and tools I work with:
 
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="25px"></code>
-<code><img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width="25px"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="25px"></code>
-<code><img src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png" width="25px"></code>
-<code><img src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png" width="25px"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="50px"></code>
+<code><img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width="50px"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50px"></code>
+<code><img src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png" width="50px"></code>
+<code><img src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png" width="50px"></code>
+<code><img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Pic.png" width="50px"></code>
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs_eMjpOH-m8PRNgphEdHAG3G8iJJb2VBPBjOSMZvACKcMe_h_IioGSi2fK0JYnnm_efI&usqp=CAU" width="50px"></code>
+<code><img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/487b2655-8eea-4321-9ec0-3034b4444be3.png?auto=format&q=50&w=128&h=128&fit=max&dpr=3" width="50px"></code>
+<code><img src="https://avatars.dzeninfra.ru/get-zen_doc/751940/pub_5ad594f9830905f56834939e_5ad5956f77d0e6231c9503cc/scale_1200" width="50px"></code>
 <br />                                                                                                                     
