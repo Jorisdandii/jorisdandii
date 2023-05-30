@@ -1,5 +1,5 @@
 ### Hi I'm Sirojiddin Tangirov <img src="https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-
+<hr>
 
 <strong>I you can visit my pages</strong>
 
@@ -16,7 +16,8 @@
 <img src="https://docs.codewars.com/logo.svg" width="40px"">  
 </a>
 <br/>
-
+<hr>
+                                                           
 ### Languages and tools I work with:
 
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="50px"></code>
