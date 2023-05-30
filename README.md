@@ -1,4 +1,4 @@
-### Hi I'm Sirojiddin Tangirov <img src="https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+### Hi I'm Sirojiddin <img src="https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 <hr>
 
 <strong>I you can visit my pages</strong>
