@@ -31,4 +31,5 @@
 <code><img src="https://avatars.dzeninfra.ru/get-zen_doc/751940/pub_5ad594f9830905f56834939e_5ad5956f77d0e6231c9503cc/scale_1200" width="50px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png" width="60px" height="30px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="60px"></code>
+<code><img src="https://heropy.blog/css/images/vendor_icons/sass.png" width="60px" height="40px"></code>
 <br />                                                                                                                     
