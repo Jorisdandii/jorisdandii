@@ -36,4 +36,5 @@
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="60px" height="40px"></code>
 <code><img src="https://blog.kakaocdn.net/dn/bg2n4x/btrgczTySc9/isgW7XMQ1woHT401QU0M01/img.png" width="80px" height="40px"></code>
 <code><img src="https://www.cjr.org/wp-content/uploads/2017/01/jim_vandehei_axios.png" width="80px" height="40px"></code>
+<code><img src="https://chriscourses.com/blog/redux.jpg" width="80px" height="40px"></code>
 <br />                                                                                                                     
