@@ -32,7 +32,7 @@
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png" width="60px" height="30px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="60px"></code>
 <code><img src="https://heropy.blog/css/images/vendor_icons/sass.png" width="60px" height="40px"></code>
-<code><img src="https://quolum.com/blog/wp-content/uploads/2023/01/coverimage.png" width="70px" height="40px"></code>
+<code><img src="https://quolum.com/blog/wp-content/uploads/2023/01/coverimage.png" width="80px" height="40px"></code>
 <code><img src="https://cdn.thenewstack.io/media/2022/01/10b88c68-typescript-logo.png" width="80px" height="40px"></code>
 <code><img src="https://blog.kakaocdn.net/dn/bg2n4x/btrgczTySc9/isgW7XMQ1woHT401QU0M01/img.png" width="80px" height="40px"></code>
 <code><img src="https://www.cjr.org/wp-content/uploads/2017/01/jim_vandehei_axios.png" width="80px" height="40px"></code>
