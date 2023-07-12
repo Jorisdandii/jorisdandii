@@ -40,4 +40,5 @@
 <code><img src="https://blog.openreplay.com/images/why-should-you-use-material-ui/images/hero.png" width="80px" height="40px"></code>
 <code><img src="https://www.nerdwallet.com/assets/blog/wp-content/uploads/2018/05/yarn.png" width="80px" height="40px"></code>
 <code><img src="https://jwt.io/img/logo-asset.svg" width="80px" height="40px"></code>
+<code><img src="https://mobisoftinfotech.com/resources/wp-content/uploads/2022/04/next-JS-framework.png" width="80px" height="40px"></code>
 <br />                                                                                                                     
