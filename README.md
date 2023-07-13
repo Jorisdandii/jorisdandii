@@ -25,11 +25,12 @@
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50px"></code>
 <code><img src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png" width="50px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="60px" height="40px"></code>
+<code><img src="https://avatars.dzeninfra.ru/get-zen_doc/751940/pub_5ad594f9830905f56834939e_5ad5956f77d0e6231c9503cc/scale_1200" width="50px"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png" width="60px" height="30px"></code>
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUbjpHNiAc2MvMN1SAm7Ns5N_M-h2szTYEPecG_iKD0QXp5Ion52kG0FBsF-6Q6U5t3fY&usqp=CAU" width="50px"></code>
 <code><img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Pic.png" width="60px"></code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs_eMjpOH-m8PRNgphEdHAG3G8iJJb2VBPBjOSMZvACKcMe_h_IioGSi2fK0JYnnm_efI&usqp=CAU" width="50px"></code>
 <code><img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/487b2655-8eea-4321-9ec0-3034b4444be3.png?auto=format&q=50&w=128&h=128&fit=max&dpr=3" width="50px"></code>
-<code><img src="https://avatars.dzeninfra.ru/get-zen_doc/751940/pub_5ad594f9830905f56834939e_5ad5956f77d0e6231c9503cc/scale_1200" width="50px"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png" width="60px" height="30px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="60px"></code>
 <code><img src="https://heropy.blog/css/images/vendor_icons/sass.png" width="80px" height="40px"></code>
 <code><img src="https://quolum.com/blog/wp-content/uploads/2023/01/coverimage.png" width="80px" height="40px"></code>
