@@ -42,4 +42,5 @@
 <code><img src="https://www.nerdwallet.com/assets/blog/wp-content/uploads/2018/05/yarn.png" width="80px" height="40px"></code>
 <code><img src="https://jwt.io/img/logo-asset.svg" width="80px" height="40px"></code>
 <code><img src="https://mobisoftinfotech.com/resources/wp-content/uploads/2022/04/next-JS-framework.png" width="80px" height="40px"></code>
+<code><img src="https://images.velog.io/images/jiheon/post/47b68c96-a24c-413c-9b06-d276a55a6605/1.png" width="60px"></code>
 <br />                                                                                                                     
