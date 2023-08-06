@@ -44,4 +44,5 @@
 <code><img src="https://mobisoftinfotech.com/resources/wp-content/uploads/2022/04/next-JS-framework.png" width="80px" height="40px"></code>
 <code><img src="https://images.velog.io/images/jiheon/post/47b68c96-a24c-413c-9b06-d276a55a6605/1.png" width="60px"></code>
 <code><img src="https://images.velog.io/images/eunnbi/post/447e92dc-c93e-4ce9-9561-74dfefb4d838/0_-Mrot3h5AJ9fTFQk.png" width="80px" height="40px"></code>
+<code><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--PL9NNZwe--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0v54o6kw67xo4ff9il7p.png" width="80px" height="40px"></code>
 <br />                                                                                                                     
