@@ -1,7 +1,10 @@
  ### Hi I'm Sirojiddin <!-- <img src="https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> --><img src="https://media3.giphy.com/media/5HyXGsoFzXWPKFx07j/giphy.gif?cid=ecf05e47mg0lfgyrfqik5i1cmhef1yx1mtjcb29hdplc8wof&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="55px">
 <hr>
 
-<strong>I you can visit my pages</strong>
+<strong align="center">I you can visit my pages</strong>
+<div align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Web+Developer+Dean👨‍💻;Based+in+Gwangju,+South+Korea🇰🇷;Ask+me+about+JavaScript⚡️&color=cyan&center=true" />
+</div>
 
 <a href="https://www.instagram.com/sirojiddin8617/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="40px">  
