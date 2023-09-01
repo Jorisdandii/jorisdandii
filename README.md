@@ -10,7 +10,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="40px">  
 </a>
 <a href="https://www.facebook.com/profile.php?id=100007818046510">
-<img src="https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-icon-file-facebook-icon-svg-wikimedia-commons-4.png" width="40px">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1024px-Facebook_icon.svg.png" width="40px">  
 </a>
 <a href="https://t.me/sirojiddin8617">
 <img src="https://static.vecteezy.com/system/resources/previews/017/221/839/original/telegram-logo-transparent-free-png.png" width="50px" height="50px">  
