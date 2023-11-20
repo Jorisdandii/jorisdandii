@@ -50,4 +50,5 @@
 <code><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--PL9NNZwe--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0v54o6kw67xo4ff9il7p.png" width="80px" height="40px"></code>
 <code><img src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.png" width="80px" height="40px"></code>
 <code><img src="https://files.virgool.io/upload/users/241004/posts/prjgwponutit/0qakjwfxc462.png" width="80px" height="40px"></code>
+<code><img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-1.svg" width="80px" height="40px"></code>
 <br />                                                                                                                     
