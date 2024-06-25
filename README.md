@@ -36,7 +36,7 @@
 <code><img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/487b2655-8eea-4321-9ec0-3034b4444be3.png?auto=format&q=50&w=128&h=128&fit=max&dpr=3" width="50px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="60px"></code>
 <code><img src="https://heropy.blog/css/images/vendor_icons/sass.png" width="80px" height="40px"></code>
-<code><img src="https://quolum.com/blog/wp-content/uploads/2023/01/coverimage.png" width="80px" height="40px"></code>
+<code><img src="https://camo.githubusercontent.com/5b2a8527be6ce73521cdb521a1033b92ff7b1860f79585f66ec30ea75ab253e4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667" width="80px" height="40px"></code>
 <code><img src="https://cdn.thenewstack.io/media/2022/01/10b88c68-typescript-logo.png" width="80px" height="40px"></code>
 <code><img src="https://blog.kakaocdn.net/dn/bg2n4x/btrgczTySc9/isgW7XMQ1woHT401QU0M01/img.png" width="80px" height="40px"></code>
 <code><img src="https://www.cjr.org/wp-content/uploads/2017/01/jim_vandehei_axios.png" width="80px" height="40px"></code>
@@ -48,8 +48,7 @@
 <code><img src="https://images.velog.io/images/jiheon/post/47b68c96-a24c-413c-9b06-d276a55a6605/1.png" width="60px"></code>
 <code><img src="https://images.velog.io/images/eunnbi/post/447e92dc-c93e-4ce9-9561-74dfefb4d838/0_-Mrot3h5AJ9fTFQk.png" width="80px" height="40px"></code>
 <code><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--PL9NNZwe--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0v54o6kw67xo4ff9il7p.png" width="80px" height="40px"></code>
-<code><img src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.png" width="80px" height="40px"></code>
+<code><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/socketio_logo_icon_168806.png" width="80px" height="40px"></code>
 <code><img src="https://files.virgool.io/upload/users/241004/posts/prjgwponutit/0qakjwfxc462.png" width="80px" height="40px"></code>
 <code><img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-1.svg" width="80px" height="40px"></code>
-<code><img src="https://www.peillat-qa.com/assets/img/portfolio/performance/grafana.png" width="80px" height="40px"></code>
 <br />                                                                                                                     
