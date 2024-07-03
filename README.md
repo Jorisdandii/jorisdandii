@@ -51,4 +51,5 @@
 <code><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/socketio_logo_icon_168806.png" width="80px" height="40px"></code>
 <code><img src="https://files.virgool.io/upload/users/241004/posts/prjgwponutit/0qakjwfxc462.png" width="80px" height="40px"></code>
 <code><img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-1.svg" width="80px" height="40px"></code>
+<code><img src="https://images.velog.io/images/moongq/post/953eec56-74af-4d03-b293-5e91fc0c51b5/nginx.png" width="80px" height="40px"></code>
 <br />                                                                                                                     
