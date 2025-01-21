@@ -27,6 +27,7 @@
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width="50px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50px"></code>
 <code><img src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png" width="50px"></code>
+<code><img src="https://images.velog.io/images/taese0ng/post/82c7a9ee-7d30-44eb-be74-6814dd66b64c/logo-vuejs-min.png" width="100px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="60px" height="40px"></code>
 <code><img src="https://avatars.dzeninfra.ru/get-zen_doc/751940/pub_5ad594f9830905f56834939e_5ad5956f77d0e6231c9503cc/scale_1200" width="50px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png" width="60px" height="30px"></code>
